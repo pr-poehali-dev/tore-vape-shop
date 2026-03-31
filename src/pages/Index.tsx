@@ -159,7 +159,7 @@ export default function Index() {
             </div>
             <div>
               <div className="font-bold tracking-widest neon-text text-xl" style={{ fontFamily: "Oswald, sans-serif" }}>
-                TORE VAPE
+                BERRY VAPE
               </div>
               <div className="text-xs" style={{ color: "#555", fontFamily: "Oswald, sans-serif", letterSpacing: "0.15em" }}>
                 SHOP
@@ -376,7 +376,7 @@ export default function Index() {
             </p>
             <div className="flex items-center gap-3 flex-wrap">
               <div className="px-6 py-3 rounded-lg text-lg font-bold tracking-widest" style={{ background: "rgba(0,255,102,0.1)", border: "1px dashed rgba(0,255,102,0.4)", color: "var(--neon-green)", fontFamily: "Oswald, sans-serif" }}>
-                TORE10
+                BERRY10
               </div>
               <button className="btn-neon px-6 py-3 rounded-lg text-sm">
                 ПРИМЕНИТЬ
@@ -391,7 +391,7 @@ export default function Index() {
         <div className="max-w-6xl mx-auto px-4 py-10">
           <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-8">
             <div>
-              <div className="text-xl font-bold neon-text mb-1" style={{ fontFamily: "Oswald, sans-serif", letterSpacing: "0.1em" }}>TORE VAPE</div>
+              <div className="text-xl font-bold neon-text mb-1" style={{ fontFamily: "Oswald, sans-serif", letterSpacing: "0.1em" }}>BERRY VAPE</div>
               <p className="text-sm" style={{ color: "#444" }}>Магазин электронных сигарет</p>
               <p className="text-xs mt-2" style={{ color: "#333" }}>
                 Продажа только лицам 18+ лет
@@ -420,7 +420,7 @@ export default function Index() {
             </div>
           </div>
           <div className="mt-8 pt-6 text-center text-xs" style={{ color: "#2a2a2a", borderTop: "1px solid #111" }}>
-            © 2024 TORE VAPE. Все права защищены. Курение вредит вашему здоровью.
+            © 2024 BERRY VAPE. Все права защищены. Курение вредит вашему здоровью.
           </div>
         </div>
       </footer>
