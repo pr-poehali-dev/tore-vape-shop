@@ -238,6 +238,22 @@
     animation: pulse-neon 2s ease-in-out infinite;
   }
 
+  @keyframes pulse-berry {
+    0%,
+    100% {
+      box-shadow: 0 0 5px rgba(255, 45, 85, 0.3);
+    }
+    50% {
+      box-shadow:
+        0 0 20px rgba(255, 45, 85, 0.7),
+        0 0 40px rgba(255, 45, 85, 0.2);
+    }
+  }
+
+  .animate-pulse-berry {
+    animation: pulse-berry 2s ease-in-out infinite;
+  }
+
   .tag-hot {
     background: linear-gradient(135deg, #ff4444, #ff0080);
     color: white;

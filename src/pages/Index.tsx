@@ -154,8 +154,8 @@ export default function Index() {
       <header className="sticky top-0 z-50" style={{ background: "rgba(13,13,13,0.92)", backdropFilter: "blur(16px)", borderBottom: "1px solid #1a1a1a" }}>
         <div className="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between gap-4">
           <div className="flex items-center gap-3">
-            <div className="w-8 h-8 rounded-md flex items-center justify-center animate-pulse-neon" style={{ background: "rgba(0,255,102,0.12)", border: "1px solid var(--neon-green)" }}>
-              <span style={{ fontSize: "16px" }}>💨</span>
+            <div className="w-8 h-8 rounded-md flex items-center justify-center animate-pulse-berry" style={{ background: "rgba(255,45,85,0.12)", border: "1px solid #ff2d55" }}>
+              <span style={{ fontSize: "18px" }}>🍓</span>
             </div>
             <div>
               <div className="font-bold tracking-widest neon-text text-xl" style={{ fontFamily: "Oswald, sans-serif" }}>
